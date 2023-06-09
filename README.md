@@ -11,6 +11,6 @@ I included the notebook file in case you want to view the result direcly from th
 
 The ANN model was selected to be deployed in the software prototype for implementation testing
 
-Testing results:
+Testing RMSE:
 * ANN Model: 196.35 seconds
 * CAM Software (Current method): 712.12 seconds
