@@ -1,5 +1,5 @@
 # About
-This is the code developed for my undergrad's final thesis research, CNC Machining Time Estimation Model Development Using Artificial Neural Networks. This code is for academic purpose only and the thesis paper is NOT to be published.
+This is the code developed for my undergrad's final thesis research, CNC Machining Time Estimation Model Development Using Artificial Neural Networks. This code is for academic purpose only and the conference proceeding is waiting to be published at Procedia CIRP (57th Conference on Manufacturing System).
 
 The research purpose is to develop a neural network model that are capable to accurately estimate the machining time of a CNC Milling workstation, given machining parameters and project data. Lasso regression model is used for benchmarking reason. A simple GUI app prototype was also developed for production.
 
