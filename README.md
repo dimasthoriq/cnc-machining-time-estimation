@@ -1,9 +1,10 @@
 # About
-This is the code developed for my undergrad's final thesis research, CNC Machining Time Estimation Model Development Using Artificial Neural Networks. This code is for academic purpose only and the conference proceeding is waiting to be published at Procedia CIRP (57th Conference on Manufacturing System).
+This is the code developed for below paper published at Procedia CIRP (57th Intl Conference on Manufacturing System):
+Anas Ma'ruf, Dimas Ahmad Thoriq, and Kresna Surya Buwana. An Early Machining Time Estimation for Make-to-Order Manufacturing Using Machine Learning Approach. In Procedia CIRP, 130: 106-111, 2024.
 
 The research purpose is to develop a neural network model that are capable to accurately estimate the machining time of a CNC Milling workstation, given machining parameters and project data. Lasso regression model is used for benchmarking reason. A simple GUI app prototype was also developed for production.
 
-I included the notebook file in case you want to view the result direcly from the github page
+The ipynb file was included in case to view the result direcly from the github page
 
 # Abstract
 PT X is a make-to-order (MTO) machining product manufacturing company. PT X  needs to estimate each order’s lead time in order to estimate the cost at an early stage of the order cycle, due to the unique nature of orders in the MTO industry. These time and cost estimations would then be used to negotiate their proposed fee to the customer. PT X currently utilizes CAM software to estimate their CNC machining time, which turns out to produce a recognizable figure of deviation from the actual CNC machining time.
