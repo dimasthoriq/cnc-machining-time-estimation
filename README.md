@@ -1,5 +1,6 @@
 # About
 This is the code developed for below paper published at Procedia CIRP (57th Intl Conference on Manufacturing System):
+
 Anas Ma'ruf, Dimas Ahmad Thoriq, and Kresna Surya Buwana. An Early Machining Time Estimation for Make-to-Order Manufacturing Using Machine Learning Approach. In Procedia CIRP, 130: 106-111, 2024.
 
 The research purpose is to develop a neural network model that are capable to accurately estimate the machining time of a CNC Milling workstation, given machining parameters and project data. Lasso regression model is used for benchmarking reason. A simple GUI app prototype was also developed for production.
